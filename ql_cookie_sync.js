@@ -4,7 +4,7 @@
  */
 const $ = new API('ql', true);
 const title = '🐉 通知提示';
-const ipAddress = $.read('ip') || '81.71.28.115';
+const ipAddress = $.read('ip') || '81.71.28.115:7000';
 
 const baseURL = `http://${ipAddress}`;
 let token = 'eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiJBc3MxNTkzNTciLCJpYXQiOjE2MjExNTgyMzAsImV4cCI6MTYyMTc2MzAzMH0.2h_hei4A0nSXd7qU6QCCK2JhdzAXejgIqxt916j00M762mgBqwXeN3LrYaDjcC7G';
