@@ -2,8 +2,6 @@
 特物ZX联想@wenmoux
 没加判断 凑合用吧 或者等大佬发脚本
 不知道谁的口令
-2.0复制整段话 https://JoQYw1jIiA8FsS国创IP好礼随心抽#29vBY8N3ja@qu达開↖綡東↗
-抄自 @yangtingxiao 抽奖机脚本
 活动入口：
 更新地址：https://cdn.jsdelivr.net/gh/Wenmoux/scripts/js/superBrand.js
 已支持IOS双京东账号, Node.js支持N个京东账号
